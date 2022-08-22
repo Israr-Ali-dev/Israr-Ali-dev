@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-<!--
-**Israr-Ali-dev/Israr-Ali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
 
-Faisalawanisee/README.md
-I'm Faisal, a full-time full-stack freelance developer man_technologist working remotely since 2009 rocket
+I'm Israr Ali, a full-time full-stack freelance developer man_technologist working remotely since 2009 rocket
 
     question Ask me about anything related to Web and related technologies
 

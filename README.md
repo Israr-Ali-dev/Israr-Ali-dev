@@ -3,14 +3,28 @@
 <!--
 **Israr-Ali-dev/Israr-Ali-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Faisalawanisee/README.md
+I'm Faisal, a full-time full-stack freelance developer man_technologist working remotely since 2009 rocket
+
+    question Ask me about anything related to Web and related technologies
+
+    zap Fun fact: I use tabs over spaces
+
+
+My Skill Set
+Frontend
+Bootstrap JavaScript TypeScript Webpack Express.js Vue.js Nuxt JS React Gatsby D3.js
+Database
+MySQL Maria DB PostgreSQL MongoDB Oracle Redis
+	
+Backend
+Python PHP Ruby Ruby on Rails Firebase WordPress Maria DB Flask GraphQL Laravel Redis WooCommerce MongoDB Django Node.js
+	
+DevOps
+AWS GCP Kubernetes Linux Git Bash PowerShell Terraform Docker Jenkins
+
+Connect with me
+github twitter linkedin facebook 

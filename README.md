@@ -1,4 +1,4 @@
-### <div align="center">I'm Faisal, a full-time full-stack freelance developer 👨‍💻 working remotely since 2009 🚀</div>  
+### <div align="center">I'm Israr, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
 - ❓ Ask me about anything related to Web and related technologies  
@@ -89,16 +89,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/faisalawanisee" target="_blank">
+<a href="https://github.com/Israr-Ali-dev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/faisalawanisee" target="_blank">
+<a href="https://twitter.com/IsrarAl76289490" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/faisalfab" target="_blank">
+<a href="https://www.linkedin.com/in/israr-ali-5a7540134/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/faisalkhalidfab" target="_blank">
+<a href="https://www.facebook.com/israr.mughal.528" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 </div>  
